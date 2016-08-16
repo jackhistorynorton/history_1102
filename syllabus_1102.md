@@ -1,7 +1,6 @@
 ### History 1102: World History from 1400- 1914 ###  
----
 
-Jack Norton, 
+Jack Norton, Faculty in History 
 
 _“You can best serve civilization by being against what usually passes for it.”_ Wendell Berry
 
