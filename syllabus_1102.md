@@ -1,4 +1,4 @@
-### History 1102: World History from 1400- 1914 ###  
+### History 1102: World History from 1400- 1914
 
 Jack Norton, Faculty in History 
 
