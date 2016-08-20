@@ -71,8 +71,7 @@ phone or video (skype, google, facetime).
 
 **Course Policies**
 
-**Attendance- Attendance is required!** You need to check in with our
-course regularly throughout the week. Are you committed to logging in, reading others thoughts, writing down your thoughts, and working independently at least five times a week for at least 8 total hours? If so, this course is for you. If not, you may do better in a face to face course. I do not take attendance, rather the course grades are set up to reward students who regularly contribute and and can hurt grades for those who do not contribute. For example, there are no make-up quizzes or discussions, no exceptions.
+**Attendance- Attendance is required!** You need to check in with our course regularly throughout the week. Are you committed to logging in, reading others thoughts, writing down your thoughts, and working independently at least five times a week for at least 8 total hours? If so, this course is for you. If not, you may do better in a face to face course. I do not take attendance, rather the course grades are set up to reward students who regularly contribute and and can hurt grades for those who do not contribute. For example, there are no make-up quizzes or discussions, no exceptions.
 
 As an incentive for regular attendance, those students who turn in all
 their assignments on-time, and miss no discussions or quizzes, will earn
