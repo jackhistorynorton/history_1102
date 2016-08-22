@@ -3,14 +3,13 @@
 #### Quizzes close on Sunday night at 8 p.m. Discussion and all assignments are due by Friday at 8 p.m. ####
 
 ### Week 1, Aug 21 – 27: History Bootcamp I ###
+**Read, View, or Play**: [Read this first](http://jacknorton.org/read-this-first-yes-before-the-syllabus/)  
 
-**Read, View, or Play**:  [Video intro to historical thinking](http://teachinghistory.org/historical-thinking-intro) 
+[Video intro to historical thinking](http://teachinghistory.org/historical-thinking-intro) 
 
 [Intro to primary vs. secondary sources](http://www.collectionscanada.gc.ca/education/008-3010-e.html) 
 
 [Plagiarism tutorial](http://www.lib.usm.edu/legacy/plag/plagiarismtutorial.php)
-
-[Read this first] 
 
 ***Do**: Take the [Self Assesment](https://docs.google.com/forms/d/e/1FAIpQLSfZJqhI6XCHujrBYZuyLj1Cz5iI1i-epK59_kEy3lSQcUqtmQ/viewform) to help me understand you better as a learner.
 
