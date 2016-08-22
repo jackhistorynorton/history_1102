@@ -3,8 +3,7 @@ History Bootcamp Source Analysis
 So you've now read the [**standard textbook
 treatment**](http://go.galegroup.com.ndcproxy.mnpals.net/ps/retrieve.do?inPS=true&prodId=GVRL&userGroupName=mnanorman&docId=GALE|CX2587300152&contentSegment=&searchId=R3&tabID=T003&resultListType=RESULT_LIST&currentPosition=4&searchResultsType=) of the Ottoman Empire, a [primary
 source](http://www.fordham.edu/HALSAll/MOD/1555busbecq.asp) of a letter
-from Ogier Ghiselin de Busbecq to the Holy Roman Emperor around
-1555-1562, and a [virtual walking
+from Ogier Ghiselin de Busbecq to the Holy Roman Emperor around 1555-1562, and a [virtual walking
 tour](http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm)
 of the Suleymaine Mosque.
 
@@ -21,6 +20,8 @@ architecture, painting, poetry, and diplomatic papers.
 should be in the form of short paragraphs, not bullet points.** The
 questions are designed to help you think about how we will use primary
 and secondary sources in this course. Insert space as you require.
+
+Type your answers and save a txt file. Upload to the History Bootcamp II Assignment Submission Folder on D2L. 
 
 Questions
 ---------
