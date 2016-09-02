@@ -30,6 +30,7 @@ http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm
 ### Week 3, September 4 - 10, Words I ###
 
 **Read, View, or Play**: [Wu Cheng'en Reading: Journey to the West](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3408400942&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=1453312f7fee83dc810a8230456ba58f)
+[Introduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?p=GVRL&sw=w&u=mnanorman&v=2.1&it=r&id=GALE%7CCX3426300053&asid=085cc719525ec6cf3e17e24c155b4cfb)
 [Introduction to William Shakespeare](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3426300095&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=c255b87a5448f275b0f7be358b9fa0f9)
 [Voyant tools](http://voyant-tools.org/)
 [Google ngrams](https://books.google.com/ngrams)
