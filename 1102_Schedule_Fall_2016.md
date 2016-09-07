@@ -34,7 +34,7 @@ http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm
 [Introduction to William Shakespeare](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3426300095&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=c255b87a5448f275b0f7be358b9fa0f9)
 [Voyant tools](http://voyant-tools.org/)
 [Google ngrams](https://books.google.com/ngrams)
-**Do**: [Words I Assignment]
+**Do**: [Words I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words1_intro_distant_reading.html)
 
 ### Week 4, September 11 – 17, Words II ###
 
@@ -46,7 +46,7 @@ http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm
 
 Backup link for [_Don Quijote_](http://cervantes.tamu.edu/english/ctxt/DQ\_Ormsby/part1\_DQ\_Ormsby.html)
 
-**Do**: [Words II Assignment]
+**Do**: [Words II Assignment](http://jacknorton.org/words-2-assignment_1102_fa16/)
 
 ### Week 5, Sept 18 – 24, Time I ###
 
