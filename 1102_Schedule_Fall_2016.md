@@ -46,7 +46,7 @@ http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm
 
 Backup link for [_Don Quijote_](http://cervantes.tamu.edu/english/ctxt/DQ\_Ormsby/part1\_DQ\_Ormsby.html)
 
-**Do**: [Words II Assignment](http://jacknorton.org/words-2-assignment_1102_fa16/)
+**Do**: [Words II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words-2-assignment_1102_FA16.html)
 
 ### Week 5, Sept 18 – 24, Time I ###
 
