@@ -1,9 +1,10 @@
+**[Syllabus](http://jacknorton.org/courses/world-history-1102-fall-2016/syllabus-1102-fall-2016/) -- [Schedule](http://jacknorton.org/courses/world-history-1102-fall-2016/schedule-1102-fall-2016/) -- [Assignments](http://jacknorton.org/courses/world-history-1102-fall-2016/assignments-1101-fall-2016/) -- [D2L](https://normandale.ims.mnscu.edu)**
 ## Schedule: World History 1102, Fall 2016 ##
 
 #### Quizzes close on Sunday night at 8 p.m. Discussion and all assignments are due by Friday at 8 p.m. ####
 
 ### Week 1, Aug 21 – 27: History Bootcamp I ###
-**Read, View, or Play**: [Read this first](http://jacknorton.org/read-this-first-yes-before-the-syllabus/)  
+**Read, View, or Play**: [Read this first](http://jacknorton.org/courses/world-history-1102-fall-2016/schedule-1102-fall-2016/read-this-first-1102/)
 
 [Video intro to historical thinking](http://teachinghistory.org/historical-thinking-intro) 
 
@@ -11,40 +12,41 @@
 
 [Plagiarism tutorial](http://www.lib.usm.edu/legacy/plag/plagiarismtutorial.php)
 
-**Do**: Take the [Self Assesment](https://docs.google.com/forms/d/e/1FAIpQLSfZJqhI6XCHujrBYZuyLj1Cz5iI1i-epK59_kEy3lSQcUqtmQ/viewform) to help me understand you better as a learner.
+***Do**: Take the [Self Assesment](https://docs.google.com/forms/d/e/1FAIpQLSfZJqhI6XCHujrBYZuyLj1Cz5iI1i-epK59_kEy3lSQcUqtmQ/viewform) to help me understand you better as a learner.
 
 ### Week 2, Aug 28 – Sept 3: History Bootcamp II ###
 
 **Read, View, or Play**: _You will need your Star ID to log in to our Library Databases for these readings._
 
 [Textbook reading on Ottoman Emire](http://go.galegroup.com.ndcproxy.mnpals.net/ps/retrieve.do?inPS=true&prodId=GVRL&userGroupName=mnanorman&docId=GALE|CX2587300152&contentSegment=&searchId=R3&tabID=T003&resultListType=RESULT_LIST&currentPosition=4&searchResultsType=)
-[Letter of Ogier (http://www.fordham.edu/HALSAll/MOD/1555busbecq.asp)
+[Letter of Ogier](http://www.fordham.edu/HALSAll/MOD/1555busbecq.asp)
 http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm
 
 [Letter](http://www.fordham.edu/HALSAll/MOD/1555busbecq.asp) from Ogier Ghiselin de Busbecq to the Holy Roman Emperor around 1555-1562
 
 [A virtual walking tour](http://www.saudiaramcoworld.com/issue/200605/suleymaniye/default.htm) of the Suleymaine Mosque.
 
-**Do**: [Bootcamp II: Source Analysis](http://jacknorton.org/history-bootcamp-ii-assignment/)
+**Do**: [Bootcamp II: Source Analysis](http://jacknorton.org/courses/world-history-1102-fall-2016/assignments-1101-fall-2016/history-bootcamp-ii-assignment/)
 
 ### Week 3, September 4 - 10, Words I ###
 
 **Read, View, or Play**: [Wu Cheng'en Reading: Journey to the West](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3408400942&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=1453312f7fee83dc810a8230456ba58f)
-[Introduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?p=GVRL&sw=w&u=mnanorman&v=2.1&it=r&id=GALE%7CCX3426300053&asid=085cc719525ec6cf3e17e24c155b4cfb)
 [Introduction to William Shakespeare](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3426300095&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=c255b87a5448f275b0f7be358b9fa0f9)
+I[ntroduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?p=GVRL&sw=w&u=mnanorman&v=2.1&it=r&id=GALE%7CCX3426300053&asid=085cc719525ec6cf3e17e24c155b4cfb) NOTE- NEW READING!
 [Voyant tools](http://voyant-tools.org/)
 [Google ngrams](https://books.google.com/ngrams)
-**Do**: [Words I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words1_intro_distant_reading.html)
+
+**Do**:[Words I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words1_intro_distant_reading.html)
 
 ### Week 4, September 11 – 17, Words II ###
 
-**Read, View, or Play**: [Complete works of Shakespeare](http://norvig.com/ngrams/shakespeare.txt) who died in 1616 
+**Read, View, or Play**: You will use the followig texts the Words II assignment. I do not expect you to read all of Shakespeare, *Don Quijote,* and *Journey to the West.*
+
+[Complete works of Shakespeare](http://norvig.com/ngrams/shakespeare.txt) who died in 1616 
 
 [_Journey to the West_](http://www.chine-informations.com/fichiers/jourwest.pdf) A Classic Chinese Tale of the Stone Monkey king forced by Buddha to work with a Buddhist Monk, 1592.
 
-[_Don Quijote_](http://www.gutenberg.org/cache/epub/996/pg996.txt) Miguel de Cervantes, died 1616. 
-
-Backup link for [_Don Quijote_](http://cervantes.tamu.edu/english/ctxt/DQ\_Ormsby/part1\_DQ\_Ormsby.html)
+ [Don Quijote](http://cervantes.tamu.edu/english/ctxt/DQ\_Ormsby/part1\_DQ\_Ormsby.html), Miguel de Cervantes, died 1616.
 
 **Do**: [Words II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words-2-assignment_1102_FA16.html)
 
@@ -65,7 +67,7 @@ Backup link for [_Don Quijote_](http://cervantes.tamu.edu/english/ctxt/DQ\_Ormsb
 
 [Introduction to Buddhismm](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3448400014&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=1a0374b2514b1dd0f3d583690360b705) Pages 87-93.
 
-[Introduction to Christianityy](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3448400015&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=c534307c802bbd01e96c5245842d7ee2) Sections: Christianity, History & Development, The E. Orthodox Church is Established, The Reformation gives rise to Protestantism. 
+[Introduction to Christianity](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3448400015&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=c534307c802bbd01e96c5245842d7ee2) Sections: Christianity, History & Development, The E. Orthodox Church is Established, The Reformation gives rise to Protestantism. 
 
 **Do**: [Images I Assignment]
 
@@ -126,7 +128,6 @@ wish to play with it prior to our discussions.
 **Read, View, or Play**: [Video Introduction to Omeka](https://vimeo.com/55973380)
 
 **Do**: Register for Omeka account and [Exhibit I Assignment]
-
 
 ### Week 16, December 4 – 10
 
