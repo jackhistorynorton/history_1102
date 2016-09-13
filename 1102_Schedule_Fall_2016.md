@@ -12,7 +12,7 @@
 
 [Plagiarism tutorial](http://www.lib.usm.edu/legacy/plag/plagiarismtutorial.php)
 
-***Do**: Take the [Self Assesment](https://docs.google.com/forms/d/e/1FAIpQLSfZJqhI6XCHujrBYZuyLj1Cz5iI1i-epK59_kEy3lSQcUqtmQ/viewform) to help me understand you better as a learner.
+**Do**: Take the [Self Assesment](https://docs.google.com/forms/d/e/1FAIpQLSfZJqhI6XCHujrBYZuyLj1Cz5iI1i-epK59_kEy3lSQcUqtmQ/viewform) to help me understand you better as a learner.
 
 ### Week 2, Aug 28 – Sept 3: History Bootcamp II ###
 
