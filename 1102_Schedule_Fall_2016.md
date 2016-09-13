@@ -38,6 +38,7 @@ I[ntroduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http:
 
 **Do**:[Words I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words1_intro_distant_reading.html)
 
+
 ### Week 4, September 11 – 17, Words II ###
 
 **Read, View, or Play**: You will use the followig texts the Words II assignment. I do not expect you to read all of Shakespeare, *Don Quijote,* and *Journey to the West.*
@@ -48,18 +49,24 @@ I[ntroduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http:
 
  [Don Quijote](http://cervantes.tamu.edu/english/ctxt/DQ\_Ormsby/part1\_DQ\_Ormsby.html), Miguel de Cervantes, died 1616.
 
+**Quiz**: Time I, Open From 2016_9_15 to 2016_9_18
+**Do**: Week 4 Discussion Posts
 **Do**: [Words II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/words-2-assignment_1102_FA16.html)
 
 ### Week 5, Sept 18 – 24, Time I ###
 
 **Read, View, or Play**: [British India](http://dailylife2.abc-clio.com.ndcproxy.mnpals.net/Topics/Display/1426845?webSiteCode=SLN_DLTH_AC&returnToPage=%2fTopics%2fDisplay%2f1426845&token=2CEA775BB93B98E0CA5328E0A8D5544E&casError=False) Sections on Domestic life (2) and Economic life (2)
 
+**Quiz**: Time II Readings, Open From 2016_9_22 to 2016_9_25 
+**Do**: Week 5 Discussion Posts
 **Do**: [Time I Assignment]
 
 ### Week 6, Sept 25 – Oct 1, Time II ###
 
 **Read, View, or Play**: [Tokugawa Japan](http://dailylife2.abc-clio.com.ndcproxy.mnpals.net/Topics/Display/1426560) Sections on Domestic life (2) and Economic life (2)
 
+**Quiz**: Images I Readings, Open From 2016_9_30 to 2016_10_2
+**Do**: Week 6 Discussion Posts
 **Do**: [Time II Assignment]
 
 ### Week 7, October 2 – 8, Images I ###
@@ -69,6 +76,8 @@ I[ntroduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http:
 
 [Introduction to Christianity](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3448400015&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=c534307c802bbd01e96c5245842d7ee2) Sections: Christianity, History & Development, The E. Orthodox Church is Established, The Reformation gives rise to Protestantism. 
 
+**Quiz**: Images II Readings, Open From 2016_10_6 to 2016_10_9
+**Do**: Week 7 Discussion Posts
 **Do**: [Images I Assignment]
 
 ### Week 8, October 9 – 15, Images II ###
@@ -78,6 +87,8 @@ I[ntroduction to Miguel de Cervantes](http://ndcproxy.mnpals.net/login?url=http:
 
 [Christianity in Art](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX2347100020&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=bf76c9036307e2f9364377a1df4b5ccf) Sections: Examples: Three Images of Mary and Jesus. 
 
+**Quiz**: Numbers I Readings, Open From 2016_10_13 to 2016_10_16
+**Do**: Week 8 Discussion Posts
 **Do**: [Images II Assignment]
 
 
@@ -95,46 +106,63 @@ We will be using the website [Gapminder](http://www.gapminder.org/) next
 week. The information in gapminder will not be on your quiz, but you may
 wish to play with it prior to our discussions.
 
+**Quiz**: Numbers II Readings, Open From 2016_10_20 to 2016_10_23
+**Do**: Week 9 Discussion Posts
 **Do**: [Numbers I Assignment]
 
 ### Week 10, Oct 23 – 29, Numbers II ###
 
 **Read, View, or Play**: ["The Trans-Atlantic Slave Trade Database" Guide](http://www.slavevoyages.org/documents/download/VoyagesGuide.pdf) Pages 1-28. 
+
+**Quiz**: Conversations I Readings, Open From 2016_10_27 to 2016_10_30
+**Do**: Week 10 Discussion Posts
 **Do**: [Numbers II Assignment]
 
 ### Week 11, Oct 30 – Nov 5, Conversations I ###
 **Read, View, or Play**: [Introduction to Industrialization](http://ndcproxy.mnpals.net/login?url=http://search.credoreference.com/content/entry/chambdictwh/industrialization/0?searchId=43aec002-6810-11e6-8703-0aea1e3b2a47&result=10)
 
+**Quiz**: Conversations II Readings, Open From 2016_11_3 to 2016_11_6
+**Do**: Week 11 Discussion Posts
 **Do**: [Conversations I Assignment]
 
 ### Week 12, November 6 – 12, Conversations II  ###
 **Read, View, or Play**: [Global Industrialization: Video, image primary sources](http://www.learner.org/courses/worldhistory/unit_main_19.html) This page contains flash for video: you may need to try multiple browsers. 
 
+**Quiz**: Maps I Readings, Open From 2016_11_10 to 2016_11_13
+**Do**: Week 12 Discussion Posts
 **Do**: [Conversations II Assignment ]
 
 ### Week 13, November 13 – 19, Maps I ###
 
 **Read, View, or Play**: [Colonialism in Africa](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3400100093&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=fc4be7b3df4b497d8acefac01d46fe95)
 
+**Quiz**: Maps II Readings, Open From 2016_11_10 to 2016_11_13
+**Do**: Week 13 Discussion Posts
 **Do**: [Maps I Assignment]
 
 ### Week 14, November 20 – 26, Maps II ###
 **Read, View, or Play**: ["Searching for Sara Baartman"](http://pages.jh.edu/~jhumag/0609web/sara.html)
 
+**Quiz**: No quiz
+**Do**: Week 14 Discussion Posts
 **Do**: [Maps II Assignment]
 
 ### Week 15, Nov 27 – Dec 3, Final Exhibit I ###
 
 **Read, View, or Play**: [Video Introduction to Omeka](https://vimeo.com/55973380)
 
+**Quiz**: No Quiz 
+**Do**: Week  Discussion Posts
 **Do**: Register for Omeka account and [Exhibit I Assignment]
 
 ### Week 16, December 4 – 10
 
 **Read, View, or Play**: Review a Sample Exhibit of [Omeka](http://himalayancollections.commons.yale.edu/) 
 
+**Course Evaluation**:  
+**Do**: Week 16 Discussion Posts
 **Do**: [Exhibit II Assignment]
 
 ### Week 17 (Finals), December 11 – 17
 **Do**: [Final Exhibit Project]
-[Survey of Instruction
+
