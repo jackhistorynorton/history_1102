@@ -1,4 +1,4 @@
-**[Syllabus..](http://jacknorton.org/courses/world-history-1102-fall-2016/syllabus-1102-fall-2016/) -- [Schedule](http://jacknorton.org/courses/world-history-1102-fall-2016/schedule-1102-fall-2016/) -- [Assignments](http://jacknorton.org/courses/world-history-1102-fall-2016/assignments-1101-fall-2016/) -- [D2L](https://normandale.ims.mnscu.edu)**
+**[Syllabus](http://jacknorton.org/courses/world-history-1102-fall-2016/syllabus-1102-fall-2016/) -- [Schedule](http://jacknorton.org/courses/world-history-1102-fall-2016/schedule-1102-fall-2016/) -- [Assignments](http://jacknorton.org/courses/world-history-1102-fall-2016/assignments-1101-fall-2016/) -- [D2L](https://normandale.ims.mnscu.edu)**
 ## Schedule: World History 1102, Fall 2016 ##
 
 #### Quizzes close on Sunday night at 8 p.m. Discussion and all assignments are due by Friday at 8 p.m. ####
