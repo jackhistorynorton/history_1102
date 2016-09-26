@@ -2,9 +2,9 @@
 
 ##### For the second part of the Time Module, you'll do a traditional compare and contrast exercise, creating a Knightlab Timeline with four historical objects and write two paragraphs of analysis. You will compare family life in India and in Japan during the period 1600-1850. #####
 
-#### A.Learning Goals ####
+#### A. Learning Goals ####
 
-Students' will create timeline that: 
+Students' will create an interactive timeline that: 
 
 1. effectively uses historical objects to advance a comparison and
 contrast between two societies.
@@ -20,16 +20,15 @@ Students will write a two-paragraph essay that:
 4. relates closely to the Timeline published in the Discussion Board.
 5. is well organized, relating the first paragraph to the second paragraph.
 
-**B.** Chose four historical objects (artwork, manuscripts, poems) from
-credible websites. Here are some to consider:
+**B.** Chose four primary sources (artwork, manuscripts, poems, letters, everyday objects) that address Mughal/British India and Edo (Tokagawa) Japan from credible websites. Here are some to consider:
 
-- The British Museum: An [*explanation*](http://www.britishmuseum.org/explore/highlights/articles/j/japan_edo_period.aspx) of the Edo (Tokagawa) period. 
-    - A [*links page*](http://www.britishmuseum.org/explore/highlights/highlights_all_relationships.aspx?Title=Japan:+Edo+period+(AD+1600-1868)&ContentType=Article&PageId=23508) of all objects in the Edo Period.\
+- The Asian Art Museum of San Francisco has an [*explanation*](http://education.asianart.org/explore-resources/background-information/edo-period-society-1615–1868) of the Edo (Tokagawa) period. 
+- The British Museum has a [*links page*](http://www.britishmuseum.org/research/collection_online/search.aspx?searchText=edo+period) of all objects in the Edo Period.
 - The Heilbrunn Timeline of Art [*Edo Era Page*](http://www.metmuseum.org/toah/hd/edop/hd_edop.htm).
 - The Heilbrunn Timeline of Art Woodblocks of the [*Edo Era Page*](http://www.metmuseum.org/toah/hd/ukiy/hd_ukiy.htm)
 - [*The Chicago Museum of Art*](http://www.artic.edu/aic/collections/)
 - The St. Louis Art Museum [*Asian Art Collection*](http://www.slam.org/Collections/asian.php)
-- The Edo Period[ *Toy Collection*](http://collections.lacma.org/node/398083) at the Los Angeles County Museum of Art.
+- [*The Edo Period Collection*](http://collections.lacma.org/search/site/edo%20period?f[0]=bm_field_has_image%3Atrue&f[1]=bm_field_has_unrestricted_image%3Atrue&f[2]=im_field_curatorial_area%3A46) at  the Los Angeles County Museum of Art.
 - The Los Angeles County Museum of Art [*17^th^ Century Indian Objects*](http://collections.lacma.org/search/site/India?f%5b0%5d=bm_field_has_image:true&f%5b1%5d=im_field_chronology:14327)
 - For French Speakers: The Indian Collection at the [*Museé du Quai
 Branly*](http://collections.quaibranly.fr/#ba5db616-571a-4ae8-b1fc-cfeff2a25a0b)
@@ -41,13 +40,13 @@ me. Dates, places, and basic descriptions are clear).
 **D.** On your own, create a list comparing and contrasting the family
 theme you've chosen for Tokagawa Japan and Mughal/British India. If your list turns out to have many items for just one are (say six items for India and only one for Japan) you may need to chose a different theme if your first choice isn't broad enough.
 
-**E.** Chose four historical objects from credible websites (such as those above), two from Japan and two from India, that demonstrate at least one comparison and one contrast.
+**E.** Chose four primary sources (historical objects) from credible websites (such as those above), two from Japan and two from India, that demonstrate at least one comparison and one contrast.
 
-**D.** Build a Knightlab Timeline using your four objects. Name your Timeline the family theme you've chosen. For example: “Selecting a Spouse in Edu Japan and British India). Each item in your timeline should include once sentence that ties your historical objects to the theme, explaining to whoever might look at your timeline how the objects relate to your title.
+**D.** Build a Knightlab Timeline using your four primary sources. Name your Timeline the family theme you've chosen. For example: “Selecting a Spouse in Edu Japan and British India). Each item in your timeline should include once sentence that ties your historical objects to the theme, explaining to whoever might look at your timeline how the objects relate to your title.
 
 **F.** Publish your Knightlab Timeline to D2L in the appropriate Discussion.
 
-**G.** Compose a mini-essay of two paragraphs. The first paragraph will compare and contrast the family theme you've chosen between India and Japan. The second paragraph will answer two questions, based on your readings and work: Was it better to be a 16 year-old girl in 1600 or 1800 in Japan or India? You must chose a date and a region. Why?
+**G.** Compose a mini-essay of two paragraphs. The **first paragraph** will compare and contrast the family theme you've chosen between India and Japan. The **second paragraph** will answer two questions, based on your readings and work: Was it better to be a 16 year-old girl in 1600 or 1800 in Japan or India? You must chose a date and a region. Why?
 
 **H.** Submit your mini-essay by Friday at 8 p.m to the appropriate Assignment Submission Folder.
 
