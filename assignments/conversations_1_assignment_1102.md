@@ -66,15 +66,12 @@ characters, with a limited number of pictures. A “feed” is all the tweets fr
 Find a pinterest page, twitter feed, and wordpress blog that are a) credible and b) address the industrial revolutions of the period before 1914. Each media type may focus on a specific country or a particular group. For example, women workers in factories are frequent subjects of interest for historians of
 industrialization.
 
-**Post your three links in a discussion post and under each link post a one-
-**sentence summary of the media and three-sentence evaluation of the crediblity
-**of the site. Due on Friday at 8 p.m.
+Post your three links in a discussion post and under each link post a one-
+sentence summary of the media and three-sentence evaluation of the credibility of the site. Due on Friday at 8 p.m.
 
 **Tips:**
 
-To limit a google search to a particular domain type :.doman name. For example,
-if I wanted to search for “women workers shirts” only in wordpress blogs, I'd
-type “women workers shirts:.wordpress.com”
+To limit a google search to a particular domain type :.domain name. For example, if I wanted to search for “women workers shirts” only in wordpress blogs, I'd type “women workers shirts:.wordpress.com”
 
 Twitter uses a particular grammar that takes a while to get used to. Topics are
 “tagged” with a \# . For example searching for \#industrialization will get all
@@ -95,8 +92,11 @@ not credible.
 Student
 
 1. Demonstrated an understanding of Industrialization and its key features in
-their choice of websites.   2. Chose PISA-credible websites.   3. Accurately
-summarized three websites.  4. Accurately analyzed the crediblity of each
+their choice of websites.  
+2. Chose PISA-credible websites.   
+3. Accurately
+summarized three websites. 
+4. Accurately analyzed the credibility of each
 website.
 
 [^1]: For the uber history geeks, you can check out two articles on
